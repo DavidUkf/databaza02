@@ -8,5 +8,5 @@ class Home extends MY_Controller
 	}
 	function index()
 	{
-		echo "we are home";	}
+		echo "we are home!";	}
 }
